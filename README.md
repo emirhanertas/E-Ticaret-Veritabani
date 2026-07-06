@@ -50,7 +50,7 @@ Projede aşağıdaki tablolar bulunmaktadır.
 ## Veritabanı Diyagramı
 
 <p align="center">
-    <img src="diagram.png" alt="Veritabanı Diyagramı" width="950">
+    <img src="diagram.png" width="1000">
 </p>
 
 ---
